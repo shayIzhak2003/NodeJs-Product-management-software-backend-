@@ -1,0 +1,137 @@
+[
+  {
+    "id": "236af7e4-b142-4816-886d-b98af3c65e3f",
+    "name": "Product Name",
+    "price": 29.99,
+    "description": "This is a test product.",
+    "category": "Electronics",
+    "createdAt": "2024-07-23T19:45:13.297Z",
+    "updatedAt": "2024-07-23T19:45:13.297Z"
+  },
+  {
+    "id": "ec4bfdc5-8bad-495c-ac82-a4c10717e761",
+    "name": "Product Name2",
+    "price": 29.99,
+    "description": "This is a test product.",
+    "category": "Electronics",
+    "createdAt": "2024-07-23T19:56:08.925Z",
+    "updatedAt": "2024-07-23T19:56:08.925Z"
+  },
+  {
+    "id": "d66d7b29-bfa7-44d5-8b2a-c3b57cbb17d6",
+    "name": "Product Name3",
+    "price": 29.99,
+    "description": "This is a test product.",
+    "category": "Electronics",
+    "createdAt": "2024-07-23T19:58:07.814Z",
+    "updatedAt": "2024-07-23T19:58:07.814Z"
+  },
+  {
+    "id": "8b90ef03-10e5-4437-8046-d5d3470e2851",
+    "name": "Updated Product Name",
+    "price": 39.99,
+    "description": "This is a test product.",
+    "category": "Electronics",
+    "createdAt": "2024-07-23T20:04:38.866Z",
+    "updatedAt": "2024-07-29T11:46:17.723Z"
+  },
+  {
+    "id": "c05af925-7c4b-47b8-aade-dfd9508d85af",
+    "name": "Updated Product Name",
+    "price": 29.99,
+    "description": "This is a test product.",
+    "category": "Electronics",
+    "createdAt": "2024-07-23T19:44:39.835Z",
+    "updatedAt": "2024-07-29T11:47:23.169Z"
+  },
+  {
+    "id": "63ae1f27-185d-4a5c-abd0-9add548a0e2d",
+    "name": "Updated Product Name",
+    "price": 2,
+    "description": "ladNFKSD",
+    "category": "Electronics",
+    "createdAt": "2024-07-29T16:36:51.525Z",
+    "updatedAt": "2024-07-29T16:37:04.413Z"
+  },
+  {
+    "id": "b0c63dda-3e2c-49ab-9a24-87d668c8597e",
+    "name": "",
+    "price": 0,
+    "description": "",
+    "category": "",
+    "createdAt": "2024-07-29T16:41:55.806Z",
+    "updatedAt": "2024-07-29T16:41:55.806Z"
+  },
+  {
+    "id": "3e35eb75-76d9-41eb-a978-c5db06e087eb",
+    "name": "sdknv",
+    "price": 45,
+    "description": "dsfdscf",
+    "category": "Electronics",
+    "createdAt": "2024-07-29T16:48:59.164Z",
+    "updatedAt": "2024-07-29T16:48:59.164Z"
+  },
+  {
+    "id": "6e6c735b-d171-4aa4-9e2b-654b2c3b2b67",
+    "name": "Updated Product Name",
+    "price": 49.99,
+    "description": "This is a test product.",
+    "category": "Electronics",
+    "createdAt": "2024-07-29T11:54:10.651Z",
+    "updatedAt": "2024-07-29T11:54:10.651Z"
+  },
+  {
+    "id": "71e0e035-3456-463c-9cfe-17ea5854ea07",
+    "name": "Updated Product Name",
+    "price": 49.99,
+    "description": "This is a test product.",
+    "category": "Electronics",
+    "createdAt": "2024-07-29T11:53:46.357Z",
+    "updatedAt": "2024-07-29T19:47:01.332Z"
+  },
+  {
+    "id": "010ab08d-cb02-47b3-abdc-b1f7897845a6",
+    "name": "isac",
+    "price": "11",
+    "description": "ZcZ",
+    "category": "electronics",
+    "createdAt": "2024-07-29T19:59:10.045Z",
+    "updatedAt": "2024-07-29T19:59:50.106Z"
+  },
+  {
+    "id": "c199cb27-f2b2-474e-9e80-0c49477eae44",
+    "name": "shay",
+    "price": "1400000",
+    "description": "shalom",
+    "category": "food2",
+    "createdAt": "2024-07-30T04:44:31.582Z",
+    "updatedAt": "2024-07-30T04:46:44.148Z"
+  },
+  {
+    "id": "43bd1fdb-7278-44e2-ae9d-e07c2d17537e",
+    "name": "shay",
+    "price": 34,
+    "description": "shalom",
+    "category": "food",
+    "createdAt": "2024-07-30T05:24:07.018Z",
+    "updatedAt": "2024-07-30T05:25:06.801Z"
+  },
+  {
+    "id": "9d4f787d-9a97-44fb-8d41-e637806b7f01",
+    "name": "Updated Product Name",
+    "price": "120.94",
+    "description": "This is a test product.",
+    "category": "Electronics",
+    "createdAt": "2024-07-29T16:41:05.954Z",
+    "updatedAt": "2024-07-30T05:05:22.145Z"
+  },
+  {
+    "id": "15a8ac6d-8694-48af-86f6-7d854f1a787f",
+    "name": "isac",
+    "price": 234,
+    "description": "izhak",
+    "category": "goods",
+    "createdAt": "2024-07-30T05:19:38.289Z",
+    "updatedAt": "2024-07-30T07:01:40.805Z"
+  }
+]

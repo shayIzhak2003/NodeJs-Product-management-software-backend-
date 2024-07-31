@@ -1,0 +1,83 @@
+[
+  {
+    "id": "6dbc7045-5d27-4a8b-889e-e6a44c8603e7",
+    "name": "wash mashin",
+    "price": 29.99,
+    "description": "This is a test product2",
+    "category": "Electronics",
+    "createdAt": "2024-07-23T19:55:03.464Z",
+    "updatedAt": "2024-07-30T06:22:35.608Z"
+  },
+  {
+    "id": "6b4dfce5-135d-43cd-bc60-16fceac37c5d",
+    "name": "microwave",
+    "price": 38,
+    "description": "shalom2",
+    "category": "electronics",
+    "createdAt": "2024-07-29T16:47:14.060Z",
+    "updatedAt": "2024-07-30T14:43:23.121Z"
+  },
+  {
+    "id": "b5f40c2b-6f81-4ba2-b818-5f2d8da0f3c3",
+    "name": "shay",
+    "price": "45",
+    "description": "shalom",
+    "category": "Electronics",
+    "createdAt": "2024-07-30T04:18:04.087Z",
+    "updatedAt": "2024-07-30T14:57:48.458Z"
+  },
+  {
+    "id": "b421209d-3074-401c-9950-6c43e1b1a911",
+    "name": "shay ",
+    "price": "20",
+    "description": "shalom 3",
+    "category": "goods",
+    "createdAt": "2024-07-30T04:46:58.199Z",
+    "updatedAt": "2024-07-31T17:06:35.963Z"
+  },
+  {
+    "id": "d7e5784a-fa29-4faf-81b4-0b45d81aa2c7",
+    "name": "fridge",
+    "price": 3000,
+    "description": "Electra Fridge",
+    "category": "electronics",
+    "createdAt": "2024-07-30T05:57:18.853Z",
+    "updatedAt": "2024-07-30T14:41:45.428Z"
+  },
+  {
+    "id": "9db00502-0e05-42a2-b61c-ab0d5008db75",
+    "name": "iphone 11 ultra",
+    "price": 5001,
+    "description": "apple",
+    "category": "electronics",
+    "createdAt": "2024-07-30T06:28:19.874Z",
+    "updatedAt": "2024-07-31T17:44:43.778Z"
+  },
+  {
+    "id": "b35d2832-6f7c-46eb-853e-5f27f60bdf9d",
+    "name": "wearbron",
+    "price": 1000,
+    "description": "This is a test product2",
+    "category": "goods",
+    "createdAt": "2024-07-30T14:59:35.671Z",
+    "updatedAt": "2024-07-30T14:59:59.231Z"
+  },
+  {
+    "id": "aaab6193-ea88-4f25-bd1a-2efd8b9ccb38",
+    "name": "pizza",
+    "price": 10,
+    "description": "This is a test product2",
+    "category": "food",
+    "createdAt": "2024-07-30T15:11:32.474Z",
+    "updatedAt": "2024-07-31T17:39:15.106Z"
+  },
+  {
+    "id": "7013ac25-3f0e-4bc0-9ac3-196438b6f3bf",
+    "name": "a pillwo",
+    "price": 10,
+    "description": "This is a test product2",
+    "category": "goods",
+    "createdAt": "2024-07-31T17:53:39.866Z",
+    "updatedAt": "2024-07-31T17:53:39.866Z"
+  }
+]
