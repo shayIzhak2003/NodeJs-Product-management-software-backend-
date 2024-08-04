@@ -29,11 +29,11 @@
   {
     "id": "d7e5784a-fa29-4faf-81b4-0b45d81aa2c7",
     "name": "fridge",
-    "price": 3000,
-    "description": "Electra Fridge",
+    "price": 4000,
+    "description": "Electra Fridge 400SH",
     "category": "electronics",
     "createdAt": "2024-07-30T05:57:18.853Z",
-    "updatedAt": "2024-08-03T17:50:06.350Z"
+    "updatedAt": "2024-08-04T18:06:56.615Z"
   },
   {
     "id": "9db00502-0e05-42a2-b61c-ab0d5008db75",

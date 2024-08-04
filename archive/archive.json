@@ -169,5 +169,23 @@
     "category": "Electronics",
     "createdAt": "2024-07-30T04:18:04.087Z",
     "updatedAt": "2024-08-04T04:10:24.278Z"
+  },
+  {
+    "id": "a69c80be-91fc-41e3-b1c7-3194c3b4fa4e",
+    "name": "shay ",
+    "price": 100000,
+    "description": "dewf",
+    "category": "goods",
+    "createdAt": "2024-08-04T17:38:50.027Z",
+    "updatedAt": "2024-08-04T17:38:50.027Z"
+  },
+  {
+    "id": "bdb005e4-b43e-44cd-a373-0a0a1d83c579",
+    "name": "Updated Product Name",
+    "price": 10,
+    "description": "wwq",
+    "category": "goods",
+    "createdAt": "2024-08-04T18:07:30.139Z",
+    "updatedAt": "2024-08-04T18:07:30.139Z"
   }
 ]
