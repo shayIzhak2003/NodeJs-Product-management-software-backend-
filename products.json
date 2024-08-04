@@ -15,16 +15,7 @@
     "description": "shalom2",
     "category": "electronics",
     "createdAt": "2024-07-29T16:47:14.060Z",
-    "updatedAt": "2024-07-30T14:43:23.121Z"
-  },
-  {
-    "id": "b5f40c2b-6f81-4ba2-b818-5f2d8da0f3c3",
-    "name": "shay",
-    "price": "45",
-    "description": "shalom",
-    "category": "Electronics",
-    "createdAt": "2024-07-30T04:18:04.087Z",
-    "updatedAt": "2024-07-30T14:57:48.458Z"
+    "updatedAt": "2024-08-04T15:35:16.080Z"
   },
   {
     "id": "b421209d-3074-401c-9950-6c43e1b1a911",
@@ -33,7 +24,7 @@
     "description": "shalom 3",
     "category": "goods",
     "createdAt": "2024-07-30T04:46:58.199Z",
-    "updatedAt": "2024-07-31T17:06:35.963Z"
+    "updatedAt": "2024-08-02T08:21:14.553Z"
   },
   {
     "id": "d7e5784a-fa29-4faf-81b4-0b45d81aa2c7",
@@ -42,7 +33,7 @@
     "description": "Electra Fridge",
     "category": "electronics",
     "createdAt": "2024-07-30T05:57:18.853Z",
-    "updatedAt": "2024-07-30T14:41:45.428Z"
+    "updatedAt": "2024-08-03T17:50:06.350Z"
   },
   {
     "id": "9db00502-0e05-42a2-b61c-ab0d5008db75",
@@ -60,7 +51,7 @@
     "description": "This is a test product2",
     "category": "goods",
     "createdAt": "2024-07-30T14:59:35.671Z",
-    "updatedAt": "2024-07-30T14:59:59.231Z"
+    "updatedAt": "2024-08-04T09:11:49.555Z"
   },
   {
     "id": "aaab6193-ea88-4f25-bd1a-2efd8b9ccb38",
@@ -69,15 +60,33 @@
     "description": "This is a test product2",
     "category": "food",
     "createdAt": "2024-07-30T15:11:32.474Z",
-    "updatedAt": "2024-07-31T17:39:15.106Z"
+    "updatedAt": "2024-08-04T09:23:12.409Z"
   },
   {
     "id": "7013ac25-3f0e-4bc0-9ac3-196438b6f3bf",
     "name": "a pillwo",
     "price": 10,
     "description": "This is a test product2",
-    "category": "goods",
+    "category": "drink",
     "createdAt": "2024-07-31T17:53:39.866Z",
-    "updatedAt": "2024-07-31T17:53:39.866Z"
+    "updatedAt": "2024-08-03T17:55:16.295Z"
+  },
+  {
+    "id": "a621b460-01a2-4182-a39a-34f1a705b8ae",
+    "name": "laptop",
+    "price": 2000,
+    "description": "asus laptup",
+    "category": "electronics",
+    "createdAt": "2024-08-04T07:14:59.275Z",
+    "updatedAt": "2024-08-04T08:41:10.809Z"
+  },
+  {
+    "id": "07178bcd-987b-4937-a20b-135d4149fb78",
+    "name": "cumputer",
+    "price": 120000,
+    "description": "apple cumputer",
+    "category": "electronics",
+    "createdAt": "2024-08-04T09:12:45.377Z",
+    "updatedAt": "2024-08-04T09:13:31.591Z"
   }
 ]

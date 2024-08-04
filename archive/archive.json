@@ -133,5 +133,41 @@
     "category": "goods",
     "createdAt": "2024-07-30T05:19:38.289Z",
     "updatedAt": "2024-07-30T07:01:40.805Z"
+  },
+  {
+    "id": "626df91d-b6aa-4cf9-9815-430f88ca0eaa",
+    "name": "burger",
+    "price": 40,
+    "description": "this is a burger",
+    "category": "goods",
+    "createdAt": "2024-08-01T17:21:00.342Z",
+    "updatedAt": "2024-08-01T17:22:04.039Z"
+  },
+  {
+    "id": "3df53dfc-89e2-478a-9aa8-d26b3394fd28",
+    "name": "isac",
+    "price": 123,
+    "description": "asfc",
+    "category": "drink",
+    "createdAt": "2024-08-03T17:55:59.272Z",
+    "updatedAt": "2024-08-04T08:41:18.394Z"
+  },
+  {
+    "id": "0d47d63e-9197-4732-bd07-ec343a45d97f",
+    "name": "shay",
+    "price": 1222,
+    "description": "Electra Fridge",
+    "category": "food",
+    "createdAt": "2024-08-04T08:49:37.414Z",
+    "updatedAt": "2024-08-04T08:49:37.414Z"
+  },
+  {
+    "id": "b5f40c2b-6f81-4ba2-b818-5f2d8da0f3c3",
+    "name": "shay",
+    "price": "45",
+    "description": "shalom",
+    "category": "Electronics",
+    "createdAt": "2024-07-30T04:18:04.087Z",
+    "updatedAt": "2024-08-04T04:10:24.278Z"
   }
 ]
