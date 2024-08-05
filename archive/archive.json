@@ -187,5 +187,24 @@
     "category": "goods",
     "createdAt": "2024-08-04T18:07:30.139Z",
     "updatedAt": "2024-08-04T18:07:30.139Z"
+  },
+  {
+    "id": "b421209d-3074-401c-9950-6c43e1b1a911",
+    "name": "shay ",
+    "price": "20",
+    "description": "shalom 3",
+    "category": "goods",
+    "createdAt": "2024-07-30T04:46:58.199Z",
+    "updatedAt": "2024-08-02T08:21:14.553Z"
+  },
+  {
+    "id": "7013ac25-3f0e-4bc0-9ac3-196438b6f3bf",
+    "name": "a pillwo",
+    "price": 10,
+    "description": "This is a test product2",
+    "category": "drink",
+    "createdAt": "2024-07-31T17:53:39.866Z",
+    "updatedAt": "2024-08-04T20:43:52.532Z",
+    "quantity": 22
   }
 ]
