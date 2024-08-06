@@ -4,9 +4,9 @@
     "name": "wash mashin",
     "price": 29.99,
     "description": "This is a test product2",
-    "category": "Electronics",
+    "category": "electronics",
     "createdAt": "2024-07-23T19:55:03.464Z",
-    "updatedAt": "2024-08-04T20:52:23.892Z",
+    "updatedAt": "2024-08-05T18:45:00.091Z",
     "quantity": 13
   },
   {
@@ -16,17 +16,17 @@
     "description": "shalom2",
     "category": "electronics",
     "createdAt": "2024-07-29T16:47:14.060Z",
-    "updatedAt": "2024-08-05T08:20:30.396Z",
-    "quantity": 12
+    "updatedAt": "2024-08-06T09:33:45.753Z",
+    "quantity": 13
   },
   {
     "id": "d7e5784a-fa29-4faf-81b4-0b45d81aa2c7",
     "name": "fridge",
-    "price": 4000,
+    "price": 5000,
     "description": "Electra Fridge 400SH",
     "category": "electronics",
     "createdAt": "2024-07-30T05:57:18.853Z",
-    "updatedAt": "2024-08-04T20:39:09.573Z"
+    "updatedAt": "2024-08-06T09:18:30.307Z"
   },
   {
     "id": "9db00502-0e05-42a2-b61c-ab0d5008db75",
@@ -37,16 +37,6 @@
     "createdAt": "2024-07-30T06:28:19.874Z",
     "updatedAt": "2024-08-05T08:11:19.738Z",
     "quantity": 1
-  },
-  {
-    "id": "b35d2832-6f7c-46eb-853e-5f27f60bdf9d",
-    "name": "wearbron",
-    "price": 1000,
-    "description": "This is a test product2",
-    "category": "goods",
-    "createdAt": "2024-07-30T14:59:35.671Z",
-    "updatedAt": "2024-08-04T20:43:41.639Z",
-    "quantity": 21
   },
   {
     "id": "aaab6193-ea88-4f25-bd1a-2efd8b9ccb38",
@@ -61,12 +51,12 @@
   {
     "id": "a621b460-01a2-4182-a39a-34f1a705b8ae",
     "name": "laptop",
-    "price": 2000,
+    "price": 2500,
     "description": "asus laptup",
     "category": "electronics",
     "createdAt": "2024-08-04T07:14:59.275Z",
-    "updatedAt": "2024-08-04T20:43:34.870Z",
-    "quantity": 3
+    "updatedAt": "2024-08-06T15:25:48.671Z",
+    "quantity": 7
   },
   {
     "id": "07178bcd-987b-4937-a20b-135d4149fb78",
@@ -75,37 +65,27 @@
     "description": "apple cumputer",
     "category": "electronics",
     "createdAt": "2024-08-04T09:12:45.377Z",
-    "updatedAt": "2024-08-04T20:44:19.140Z",
+    "updatedAt": "2024-08-05T17:10:07.960Z",
     "quantity": 14
   },
   {
     "id": "ced48b92-57f6-448c-b4cb-2feeacf3e8fb",
     "name": " falafel",
-    "price": 20,
-    "description": "good falafel",
+    "price": 22,
+    "description": " very good falafel",
     "category": "food",
-    "quantity": 13,
+    "quantity": 15,
     "createdAt": "2024-08-04T20:59:34.690Z",
-    "updatedAt": "2024-08-05T08:20:57.364Z"
+    "updatedAt": "2024-08-06T15:50:13.646Z"
   },
   {
-    "id": "914e602d-1de0-4ba9-89c6-853fc145d49e",
-    "name": "shay",
-    "price": 1212,
-    "description": "This is a test product2",
-    "category": "food",
-    "quantity": 3,
-    "createdAt": "2024-08-05T08:23:00.619Z",
-    "updatedAt": "2024-08-05T08:24:30.097Z"
-  },
-  {
-    "id": "816b4091-d467-48da-b287-6b87257272b2",
-    "name": "microwave2",
-    "price": 1222,
-    "description": "wwwqw",
-    "category": "electronics",
-    "quantity": 22,
-    "createdAt": "2024-08-05T08:25:24.586Z",
-    "updatedAt": "2024-08-05T08:25:24.586Z"
+    "id": "1a10360a-e3fd-4966-a078-542f6ba944a3",
+    "name": "sofa",
+    "price": 2000,
+    "description": "ikea sofa",
+    "category": "goods",
+    "quantity": 1,
+    "createdAt": "2024-08-06T15:51:14.382Z",
+    "updatedAt": "2024-08-06T15:51:14.382Z"
   }
 ]

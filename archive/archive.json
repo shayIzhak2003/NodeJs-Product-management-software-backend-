@@ -206,5 +206,45 @@
     "createdAt": "2024-07-31T17:53:39.866Z",
     "updatedAt": "2024-08-04T20:43:52.532Z",
     "quantity": 22
+  },
+  {
+    "id": "23757c0c-23e1-4709-9b45-a25eefee5729",
+    "name": "wash mashin",
+    "price": 29.99,
+    "description": "This is a test product2",
+    "category": "Electronics",
+    "quantity": 13,
+    "createdAt": "2024-08-05T18:25:48.696Z",
+    "updatedAt": "2024-08-05T18:25:48.696Z"
+  },
+  {
+    "id": "816b4091-d467-48da-b287-6b87257272b2",
+    "name": "microwave2",
+    "price": 1222,
+    "description": "wwwqw",
+    "category": "electronics",
+    "quantity": 22,
+    "createdAt": "2024-08-05T08:25:24.586Z",
+    "updatedAt": "2024-08-05T08:25:24.586Z"
+  },
+  {
+    "id": "b35d2832-6f7c-46eb-853e-5f27f60bdf9d",
+    "name": "wearbron",
+    "price": 1000,
+    "description": "This is a test product2",
+    "category": "goods",
+    "createdAt": "2024-07-30T14:59:35.671Z",
+    "updatedAt": "2024-08-04T20:43:41.639Z",
+    "quantity": 21
+  },
+  {
+    "id": "914e602d-1de0-4ba9-89c6-853fc145d49e",
+    "name": "shay",
+    "price": 1212,
+    "description": "This is a test product2",
+    "category": "food",
+    "quantity": 3,
+    "createdAt": "2024-08-05T08:23:00.619Z",
+    "updatedAt": "2024-08-05T08:24:30.097Z"
   }
 ]
